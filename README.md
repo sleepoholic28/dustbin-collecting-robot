@@ -4,7 +4,7 @@ A course project for **IRE 212** at **University of Frontier Technology Banglade
 
 The robot autonomously detects dustbins using a camera and a custom-trained YOLOv5 model, navigates toward them, picks them up with a robotic arm, and dumps them at a designated zone — no human input needed once it's running.
 
-> Demo video: *(add link here)*
+https://youtu.be/JNKo0ilC9tw?si=2JJGdtEj-Nog9JiR
 
 ---
 
