@@ -57,7 +57,7 @@ We trained a YOLOv5s model on a custom coffee cup dataset (used as a dustbin pro
 | Name | Role |
 |---|---|
 | [Istiaque Ahmed](https://github.com/) | Software (ML pipeline, control loop, detection) |
-| Suwaybid Ahmed Muaz | Hardware & Callibration(chassis, arm, wiring) |
+| Suwaybid Ahmed Muaz | Hardware(chassis, arm, wiring),Testing & Calibration |
 | Sazid Ahmed | Documentation |
 
 **Course:** IRE 212 — University of Frontier Technology Bangladesh
